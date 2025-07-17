@@ -1,4 +1,4 @@
-# 🌍 Global Population, GDP, and Climate Dashboard
+# 🌍 Global Population, GDP, and Climate Analysis
 
 This Power BI project presents an interactive and insightful dashboard exploring **global economic and environmental indicators** across countries and regions. It visualizes trends in **GDP, Population, Population Density, GDP per Capita, and Climate Change** using official data from the World Bank and NASA.
 
