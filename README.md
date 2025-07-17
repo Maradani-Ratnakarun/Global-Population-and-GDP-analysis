@@ -16,7 +16,7 @@ In this dashboard, we analyze how countries compare in terms of economic output 
   - GDP  
   - GDP per Capita  
 
-  ![Bangladesh KPIs](./Card.png)
+  ![Sample Country KPIs](./Card.png)
 
 - 🌍 **Country Count by Region**:
   Shows the distribution of countries across global regions.
@@ -83,7 +83,7 @@ In this dashboard, we analyze how countries compare in terms of economic output 
 
 **Maradani Ratnakarun**  
 Final Year B.Tech IT Student | Data Analyst | Power BI Enthusiast  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/Maradani-Ratnakarun)
+[LinkedIn](https://www.linkedin.com/in/maradani-ratnakarun-783534331/) | [GitHub](https://github.com/Maradani-Ratnakarun)
 
 ---
 
